@@ -1,16 +1,61 @@
-## Hi there 👋
+\<h1 align="center">Hi, I'm MRSH 👋\</h1>
 
-<!--
-**mrsh80/mrsh80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\<h3 align="center">Python Developer | Django Backend Developer\</h3>
 
-Here are some ideas to get you started:
+\<p align="center">
+&#x20; Building web applications and Python-based software solutions.
+\</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+I'm a Python developer focused on backend development and building web applications with Django.
+
+I enjoy solving programming problems, developing practical software solutions, and continuously improving my development skills.
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+
+- Python
+
+**Backend Development**
+
+- Django
+- REST API Development
+
+**Frontend**
+
+- HTML5
+- CSS3
+
+**Tools**
+
+- Git
+- GitHub
+- Linux
+- VS Code
+
+### 🚀 My Projects
+
+**Backend & Web Development**
+
+> Django-based websites and backend applications.
+
+**Python Development**
+
+> Standalone Python applications, automation tools, and software projects.
+
+### 🎯 Current Focus
+
+- Improving Python programming skills
+- Developing professional Django applications
+- Learning software architecture and clean code principles
+- Building practical Python projects
+
+---
+
+\<p align="center">
+&#x20; \<i>Always learning. Always building.\</i>
+\</p>
