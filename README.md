@@ -1,10 +1,10 @@
-\<h1 align="center">Hi, I'm MRSH 👋\</h1>
+<h1 align="center">Hi, I'm ali sheypoorchian 👋</h1>
 
-\<h3 align="center">Python Developer | Django Backend Developer\</h3>
+<h3 align="center">Python Developer | Django Backend Developer</h3>
 
-\<p align="center">
+<p align="center">
 &#x20; Building web applications and Python-based software solutions.
-\</p>
+</p>
 
 ---
 
@@ -56,6 +56,6 @@ I enjoy solving programming problems, developing practical software solutions, a
 
 ---
 
-\<p align="center">
+<p align="center">
 &#x20; \<i>Always learning. Always building.\</i>
-\</p>
+</p>
